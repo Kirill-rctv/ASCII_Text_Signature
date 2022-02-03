@@ -3,9 +3,9 @@
 Primitive ASCII generator, that can make a badge with your name and status using the Times New Roman font.
 
 ## How to run
-```
-$ java -jar main.jar
-```
+Compile ``` $ kotlinc main.kt -include-runtime -d main.jar ```
+
+Start ``` $ java -jar main.jar ```
 
 ## Example
 ```
